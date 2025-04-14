@@ -1,24 +1,16 @@
-# README
+## PUTS DEV - Explorando Banco de dados com Ruby on Rails - 2º laboratório de testes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>
+Puts dev, Querendo montar um pequeno laboratório de testes de banco de dados com Rails?
+</p>
 
-Things you may want to cover:
+<p>
+*A ideia aqui é apenas gerar o banco
+</p>
 
-* Ruby version
+<p>
+Youtube:
+https://youtu.be/iNAAgL6iOVw
+</p>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src='./docs/database.jpg'>
